@@ -19,7 +19,7 @@ I'm looking forward to take part in some famous open-source projects.
   - Computer system
   - Compilers principles
 - 👯 Looking to collaborate on:
-  - Front-end projects
+  - Front-end and Back-end projects
   - Algorithm/DS related projects
 - 📫 Reach me:
   - [Send a email](mailto:a587212@126.com)
