@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-This is amcones and my friends usually call me uli([juːli]). I am an undergrad student who studying in China, Hunan.
+This is amcones and my friends usually call me uli([juːli]). I am an undergrad student studying in China, Hunan.
 
-I'm a competition programmer, and I'm currently working on algorithm, DS and other techniques such as Go, Python, C#.
+I'm a competition programmer, and I'm currently working on algorithmic, DS, and other techniques such as Go, Python, C#.
 
-I started programming when I was fifteen, and I love it❤️!!! I have take part in unity projects and WPF projects, but in fact, I am a beginner of open-source programming.
+I started programming when I was fifteen, and I love it❤️!!! I have taken part in unity projects and WPF projects, but in fact, I am a beginner at open-source programming.
 
-I'm looking forward to take part in some famous open-source projects.
+I'm looking forward to taking part in some famous open-source projects.
 
 - 🔭 Currently working:
   - ACM-ICPC
