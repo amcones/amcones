@@ -25,7 +25,7 @@ I'm looking forward to taking part in some famous open-source projects.
   - [Send a email](mailto:a587212@126.com)
   - [My personal blog](https://amcones.cn)
 - ⚡ Fun fact:
-  - I love cat verrrry much!
+  - I love cat veeeeery much!
   
 <!--
 **amcones/amcones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
