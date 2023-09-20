@@ -10,8 +10,8 @@ I started programming when I was fifteen, and I love it❤️!!! I have taken pa
 I'm looking forward to taking part in some famous open-source projects.
 
 - 🔭 Currently working:
-  - ACM-ICPC
-  - GSoC
+  - Backend
+  - LeetCode
   - Open-source programming
   - English(in case of going abroad QAQ)
 - 🌱 Currently learning:
